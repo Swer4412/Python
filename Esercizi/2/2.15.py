@@ -20,4 +20,4 @@ if numeri[0] > numeri[2]:
     numeri[2] = copia
 
 #non so farlo :(
-print(numeri)
+print(numeri.sort())

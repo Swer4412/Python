@@ -4,3 +4,5 @@ while not 4 < len(num) < 6:
 
 for i in num:
     print(i)
+
+x = 1 if True else 3
