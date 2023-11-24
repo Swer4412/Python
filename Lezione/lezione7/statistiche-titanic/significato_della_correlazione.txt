@@ -1,0 +1,36 @@
+Puoi interpretare con parole semplici il significato della
+correlazione?
+
+ChatGPT
+
+Certamente! In termini semplici, la correlazione misura
+quanto due variabili si muovono insieme. Il suo valore è
+compreso tra -1 e 1.
+
+Correlazione positiva (vicina a 1): Se il valore di una
+variabile aumenta, l'altro tende ad aumentare. Ad esempio,
+se c'è una correlazione positiva tra il numero di ore di
+studio e il punteggio in un esame, significa che, in generale,
+più uno studente studia, più alto è il suo punteggio.
+
+Correlazione negativa (vicina a -1): Se il valore di una
+variabile aumenta, l'altro tende a diminuire. Ad esempio,
+se c'è una correlazione negativa tra il numero di ore
+trascorse a guardare la TV e il rendimento accademico,
+significa che, in generale, più tempo uno studente passa
+davanti alla TV, più basso è il suo rendimento accademico.
+
+Correlazione vicina a 0: Non c'è una forte relazione tra
+le variabili.
+
+Nel contesto del Titanic Dataset, se guardiamo alla
+correlazione tra due colonne, ad esempio 'Age' e 'Fare',
+una correlazione positiva potrebbe suggerire che i
+passeggeri più anziani tendono a pagare di più per il
+biglietto. Al contrario, una correlazione negativa potrebbe
+suggerire che i passeggeri più giovani pagano meno.
+
+È importante notare che la correlazione non implica
+necessariamente causalità. Due variabili possono essere
+correlate senza che una causa l'altra. La correlazione ci
+dice solo se e come variano insieme.

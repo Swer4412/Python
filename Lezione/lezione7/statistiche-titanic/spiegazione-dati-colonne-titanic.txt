@@ -1,0 +1,14 @@
+I dataset del Titanic solitamente contengono informazioni sui passeggeri del RMS Titanic, il famoso transatlantico che affondò nel 1912. Le colonne comuni in un dataset del Titanic potrebbero includere:
+
+PassengerId: Un identificatore univoco assegnato a ciascun passeggero.
+Survived: Indica se il passeggero è sopravvissuto (1) o no (0).
+Pclass (Passenger Class): La classe del biglietto del passeggero (1, 2 o 3), che riflette lo status socio-economico.
+Name: Il nome del passeggero.
+Sex: Il sesso del passeggero.
+Age: L'età del passeggero.
+SibSp: Il numero di fratelli o coniugi a bordo.
+Parch: Il numero di genitori o figli a bordo.
+Ticket: Il numero del biglietto.
+Fare: La tariffa pagata per il viaggio.
+Cabin: Il numero di cabina del passeggero.
+Embarked: Il porto di imbarco del passeggero (C = Cherbourg, Q = Queenstown, S = Southampton).
